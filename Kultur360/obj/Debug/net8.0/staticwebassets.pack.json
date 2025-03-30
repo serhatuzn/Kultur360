@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Kultur360\\Kultur360\\wwwroot\\images\\topkapi-sarayi.jpg",
+      "PackagePath": "staticwebassets\\images\\topkapi-sarayi.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Kultur360.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Kultur360.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Kultur360.props",
+      "PackagePath": "build\\Kultur360.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Kultur360.props",
+      "PackagePath": "buildMultiTargeting\\Kultur360.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Kultur360.props",
+      "PackagePath": "buildTransitive\\Kultur360.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

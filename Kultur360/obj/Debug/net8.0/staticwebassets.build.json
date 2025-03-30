@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "s3YFwDQSfMNcWr0Ln5b7sJxemtO5jdBsPJIsIlza0hQ=",
+  "Source": "Kultur360",
+  "BasePath": "_content/Kultur360",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Kultur360\\wwwroot",
+      "Source": "Kultur360",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Kultur360\\Kultur360\\wwwroot\\",
+      "BasePath": "_content/Kultur360",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Kultur360\\Kultur360\\wwwroot\\images\\topkapi-sarayi.jpg",
+      "SourceId": "Kultur360",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Kultur360\\Kultur360\\wwwroot\\",
+      "BasePath": "_content/Kultur360",
+      "RelativePath": "images/topkapi-sarayi#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kb03qlsjpj",
+      "Integrity": "oI1a57QDZ4nB3bR+OnovmJDwVYxrKK9nMg7TNh5uIIg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\topkapi-sarayi.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/topkapi-sarayi.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Kultur360\\Kultur360\\wwwroot\\images\\topkapi-sarayi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oI1a57QDZ4nB3bR+OnovmJDwVYxrKK9nMg7TNh5uIIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 01:17:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oI1a57QDZ4nB3bR+OnovmJDwVYxrKK9nMg7TNh5uIIg="
+        }
+      ]
+    },
+    {
+      "Route": "images/topkapi-sarayi.kb03qlsjpj.jpg",
+      "AssetFile": "C:\\Users\\User\\Desktop\\Kultur360\\Kultur360\\wwwroot\\images\\topkapi-sarayi.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oI1a57QDZ4nB3bR+OnovmJDwVYxrKK9nMg7TNh5uIIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 01:17:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kb03qlsjpj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/topkapi-sarayi.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oI1a57QDZ4nB3bR+OnovmJDwVYxrKK9nMg7TNh5uIIg="
+        }
+      ]
+    }
+  ]
+}
