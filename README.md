@@ -56,7 +56,7 @@ Projeye katkı sağlamak isterseniz pull request gönderebilirsiniz. Veritabanı
 ## 📬 İletişim
 
 Proje sahibi: **Serhat Uzun**  
-İletişim: [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/serhatuzunn/)) | [Mail](mailto:seerhatuzun@gmail.com)
+İletişim: [LinkedIn](https://www.linkedin.com/in/serhatuzunn) | [Mail](mailto:seerhatuzun@gmail.com)
 
 ---
 
